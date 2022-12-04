@@ -1,5 +1,6 @@
 ## Python Portfolio 
 ### [Wikipedia](https://github.com/gautamwalve/Portfolio_Projects/wiki)
+*****
 
 <img align = "right" width = "200" src = "https://img.icons8.com/clouds/512/python.png">
 <br clear= "left"/>
@@ -22,6 +23,7 @@ B. Level : Intermediate
 <img align = "right" width = "200" src = "https://i.imgur.com/p7um1ZK.png">
 <br clear= "left"/>
 <br>
+
 |SN|Subtask|Project Name|Complexity| Status|
 |:-|:--|:--|:--:|:--:|
 |1.||Exploratory Data Analysis|-|-|<br>
