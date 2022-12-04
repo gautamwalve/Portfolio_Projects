@@ -1,4 +1,5 @@
-## Python Portfolio
+## Python Portfolio 
+### [Wikipedia](https://github.com/gautamwalve/Portfolio_Projects/wiki)
 
 <img align = "right" width = "200" src = "https://img.icons8.com/clouds/512/python.png">
 <br clear= "left"/>
@@ -29,11 +30,7 @@ B. Level : Intermediate
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 </details>
 
 ## Ai and ML Portfolio
