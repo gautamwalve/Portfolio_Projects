@@ -21,14 +21,13 @@ B. Level : Intermediate
 
 <img align = "right" width = "200" src = "https://i.imgur.com/p7um1ZK.png">
 <br clear= "left"/>
-
+<br>
 |SN|Subtask|Project Name|Complexity| Status|
 |:-|:--|:--|:--:|:--:|
 |1.||Exploratory Data Analysis|-|-|<br>
 | | a| Investment Analysis : Spark Funds LLP|Begineer|in Progress|
 </pre>
 <br>
-
 
 </details>
 
