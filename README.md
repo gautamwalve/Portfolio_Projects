@@ -27,7 +27,7 @@ B. Level : Intermediate
 |SN|Subtask|Project Name|Complexity| Status|
 |:-|:--|:--|:--:|:--:|
 |1.||Exploratory Data Analysis|-|-|<br>
-| | a| Investment Analysis : Spark Funds LLP|Begineer|in Progress|
+| | a| Investment Analysis : Spark Funds LLP|Begineer|Completed|
 </pre>
 <br>
 
