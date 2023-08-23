@@ -6,7 +6,7 @@
 <br clear= "left"/>
 A. Level : Beginner
 
-|SN|Project Name          |Complexity |Module|  |Status|
+|SN|Project Name          |Complexity |Module|Status|
 |:--|:--|:-----------:|:--:|:--:|
 |1.|Mad-Libs Generator |Beginner |Python| Completed| <br>
 |2.|Dice Rolling Simulator |Beginner |Python|Completed| <br>
