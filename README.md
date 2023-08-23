@@ -7,7 +7,7 @@
 A. Level : Beginner
 
 |SN|Project Name          |Complexity |Module|  |Status|
-|:--|:--|:-----------:|:--:|
+|:--|:--|:-----------:|:--:|:--:|
 |1.|Mad-Libs Generator |Beginner |Python| Completed| <br>
 |2.|Dice Rolling Simulator |Beginner |Python|Completed| <br>
 |3.|Random Number Guessing |Beginner |Python |Completed| <br>
