@@ -1,9 +1,7 @@
-## Python Portfolio 
 ### [Wikipedia](https://github.com/gautamwalve/Portfolio_Projects/wiki)
-*****
+## Python Portfolio <img align = "right" width = "200" src = "https://img.icons8.com/clouds/512/python.png"> <br clear= "left"/>
 
-<img align = "right" width = "200" src = "https://img.icons8.com/clouds/512/python.png">
-<br clear= "left"/>
+
 A. Level : Beginner
 
 |SN|Project Name          |Complexity |Module|Status|
@@ -19,10 +17,9 @@ B. Level : Intermediate
 |:--|:--|:-----------:|:--:|:--:|
 |1.|Cold Lead Capture |Intermediate|Tkinter | Completed| <br>
 
-## Data Science Portfolio
+## Data Science Portfolio <img align = "right" width = "200" src = "https://i.imgur.com/p7um1ZK.png"> <br clear= "left"/>
 
-<img align = "right" width = "200" src = "https://i.imgur.com/p7um1ZK.png">
-<br clear= "left"/>
+
 <br>
 
 |SN|Subtask|Project Name|Complexity|Module| Status|
@@ -34,10 +31,9 @@ B. Level : Intermediate
 
 </details>
 
-## Ai and ML Portfolio
+## Ai and ML Portfolio <img align = "right" width = "200" src = "https://i.imgur.com/hEAIS0j.png"> <br clear= "left"/>
 
-<img align = "right" width = "200" src = "https://i.imgur.com/hEAIS0j.png">
-<br clear= "left"/>
+
 1. To be added
 <br>
 </details>
