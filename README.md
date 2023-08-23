@@ -8,11 +8,11 @@ A. Level : Beginner
 
 |SN|Project Name          |Complexity   |Status|
 |:--|:--|:-----------:|:--:|
-|1.|Mad-Libs Generator |Beginner | Completed| <br>
-|2.|Dice Rolling Simulator |Beginner | Completed| <br>
-|3.|Random Number Guessing |Beginner | Completed| <br>
-|4.|Text Based Adventure Game |Beginner | Completed| <br> 
-|5.|Random Number Generator/Guessing | Beginner | Completed |<br>
+|1.|Mad-Libs Generator |Beginner |Python| Completed| <br>
+|2.|Dice Rolling Simulator |Beginner |Python|Completed| <br>
+|3.|Random Number Guessing |Beginner |Python |Completed| <br>
+|4.|Text Based Adventure Game |Beginner |Python |Completed| <br> 
+|5.|Random Number Generator/Guessing | Beginner |Tkinter|Completed |<br>
 
 B. Level : Intermediate
 |SN|Project Name          |Complexity   |Status|
