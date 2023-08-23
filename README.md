@@ -12,6 +12,7 @@ A. Level : Beginner
 |2.|Dice Rolling Simulator |Beginner | Completed| <br>
 |3.|Random Number Guessing |Beginner | Completed| <br>
 |4.|Text Based Adventure Game |Beginner | Completed| <br> 
+|5.|Random Number Generator/Guessing | Begineer | Completed |<br>
 
 B. Level : Intermediate
 |SN|Project Name          |Complexity   |Status|
