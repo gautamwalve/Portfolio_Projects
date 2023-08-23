@@ -15,9 +15,9 @@ A. Level : Beginner
 |5.|Random Number Generator/Guessing | Beginner |Tkinter|Completed |<br>
 
 B. Level : Intermediate
-|SN|Project Name          |Complexity   |Status|
-|:--|:--|:-----------:|:--:|
-|1.|Cold Lead Capture |Intermediate | Completed| <br>
+|SN|Project Name          |Complexity|Module   |Status|
+|:--|:--|:-----------:|:--:|:--:|
+|1.|Cold Lead Capture |Intermediate|Tkinter | Completed| <br>
 
 ## Data Science Portfolio
 
@@ -25,10 +25,10 @@ B. Level : Intermediate
 <br clear= "left"/>
 <br>
 
-|SN|Subtask|Project Name|Complexity| Status|
-|:-|:--|:--|:--:|:--:|
-|1.||Exploratory Data Analysis|-|-|<br>
-| | a| Investment Analysis : Spark Funds LLP|Begineer|Completed|
+|SN|Subtask|Project Name|Complexity|Module| Status|
+|:-|:--|:--|:--:|:--:|:--:|
+|1.||Exploratory Data Analysis|Beginner|Jupyter|Completed|<br>
+| | a| Investment Analysis : Spark Funds LLP|Beginner|Jupyter|Completed|
 </pre>
 <br>
 
